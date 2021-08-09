@@ -37,14 +37,14 @@
 + Technologies: ReactJS, Redux, Typescript, Context,...
 + Link: https://my-movie-five.vercel.app/
 
+### Photo App: 
++ Source: https://github.com/Thien521999/photo-app
++ Technologies: ReactJS, Redux Tool-kit SCSS,...
++ Link: https://photo-app-bice.vercel.app/photos
+
 ### Cut PSD to HTML, CSS, JS:
 + Source: https://github.com/Thien521999/Project-F8
 + Technologies: HTML5, CSS3, SCSS, Javascript, Responsive
-
-### Cut PSD: Shoppe clone UI:
-+ Source:  https://github.com/hoapha1009/ShopeeUI
-+ Technologies: HTML5, CSS3, Javascript, ...
-+ Link: https://css-project-coderx-2020.web.app/
 
 ## Contact me via:<a href="https://github.com/hoapha1009"><img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1619494293/contact_lfgpqe.svg"></a>
 <ul>
