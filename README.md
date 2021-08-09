@@ -15,53 +15,31 @@
 ## Skills<img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613575942/skill_segyso.svg">
 
 - Languages: Javascript, Typescript, HTML5, CSS3, SCSS. A little bit about PHP.
-- Framework & Platform: ReactJS, NextJS. A little bit about NodeJS(ExpressJS), RESTApi, Bootstrap, Material UI.
-- Database: A little bit about SQL, MySQL, MongoDB.
-- Version Control: Git, Github, GitLab.
+- Framework & Platform: ReactJS, NextJS. A little bit about Bootstrap, Material UI, Ant Design, Atomic design.
+- Database: A little bit about SQL, MySQL.
+- Version Control: Git, Github, GitLab, trello
 - Foreign language: English (Reading & Writing)
 
 ## Projects
 
-### Crown Shop:
-+ Source: https://github.com/hoapha1009/crown-clothing
-+ Technologies: ReactJS, Firebase, Redux, Redux-Saga, Scss, ...
-+ Link: https://crown-clothing-puce.vercel.app/
+### Nice Shop(Clone Tiki):
++ Source: https://github.com/Thien521999/Shopping-Cart
++ Technologies:  ReactJS, Typescript, Redux Tool-kit, Context, Material UI, React-Hook-Form ...
++ Link: https://mini-shopping-cart.vercel.app/
 
-### Hafa Shop(Clone Tiki):
-+ Source: https://github.com/hoapha1009/shop-cart
-+ Technologies:  ReactJS, Typescript, Redux Tool-kit, Material UI, React-Hook-Form ...
-+ Link: https://shop-mini.vercel.app/
+### NhacCuatTui(Clone page Home): 
++ Source: https://github.com/hoangthientran/nhaccuatui.com
++ Technologies: ReactJs, Context, Ant Design, SCSS, ...
++ Link: https://hoangthientran.github.io/
 
-### MERN Blog(MongoDB, ExpressJS, ReactJS, NodeJS):
-+ Source FE: https://github.com/hoapha1009/mern-blog
-+ Source BE: https://github.com/hoapha1009/mern-blog-bee
-+ Technologies:  ReactJS, Material-UI, Redux, Redux-Saga, ExpressJS, MongoDB, NodeJS...
-+ Link: https://mern-blog.vercel.app/
-
-### World ranking: 
-+ Source: https://github.com/hoapha1009/world-ranks
-+ Technologies: NextJS, Typescript, Module CSS, ...
-+ Link: https://world-ranks-psi.vercel.app/
-
-### Next Blog: 
-+ Source: https://github.com/hoapha1009/nextjs-blog
-+ Technologies: NextJS, Module CSS, ...
-+ Link: https://nextjs-blog-sigma-roan.vercel.app/
-
-### Lavish: 
-+ Source: https://github.com/hoapha1009/ProjectWebsite
-+ Technologies: ReactJS, Redux, React-Hook-Form, MarialUI...
-+ Link: https://project-website-one.vercel.app/
-
-### Management Wesite: 
-+ Source: https://github.com/hoapha1009/Mangement-Center-Website-2020-
-+ Technologies: NodeJS, ExpressJS, Pug, MongoDB, Bootstrap, ...
-+ Link: https://pmhct17cd31-website-management.herokuapp.com/auth/login (Account: admin, Password: 123123)
+### My movies: 
++ Source: https://github.com/Thien521999/My-Movie
++ Technologies: ReactJS, Redux, Typescript, Context,...
++ Link: https://my-movie-five.vercel.app/
 
 ### Cut PSD to HTML, CSS, JS:
-+ Source:  https://cut-psd.vercel.app/
-+ Technologies: HTML5, CSS3, SASS, SCSS, Javascript, Pug, Gulp, ...
-+ Link: https://cut-psd.vercel.app/
++ Source: https://github.com/Thien521999/Project-F8
++ Technologies: HTML5, CSS3, SCSS, Javascript, Responsive
 
 ### Cut PSD: Shoppe clone UI:
 + Source:  https://github.com/hoapha1009/ShopeeUI
@@ -71,12 +49,12 @@
 ## Contact me via:<a href="https://github.com/hoapha1009"><img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1619494293/contact_lfgpqe.svg"></a>
 <ul>
 <li>
-Gmail: hoapha1009@gmail.com
+Gmail: trhoangthien1999@gmail.com
 </li>
 <li>
-[Facebook]('https://www.facebook.com/hoangpham2018/')
+[Facebook]('https://www.facebook.com/profile.php?id=100028113334830')
 </li>
 <li>
-[LinkedIn]('https://www.linkedin.com/in/hoang-pham-25a296201/')
+[LinkedIn]('https://www.linkedin.com/in/thi%C3%AAn-tr%E1%BA%A7n-07ba91182/')
 </li>
 </ul>
