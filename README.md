@@ -8,7 +8,7 @@
 
 ## Learning <a href="https://github.com/hoapha1009"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613574901/learn_tg7sio.svg"></a>
 
-- 2017.09 - 2021.10: Mathematics & Computer Science  at University of Science HCM with 7.6/10 points
+- 2017.09 - 2021.10: Mathematics & Computer Science at University of Science HCM with 7.6/10 points
 - Courses: ReactJS, NextJS, Typescript, HTML, CSS, ... in Udemy, Youtube, ZendVN, ...
 
 ## Skills<img align="right" width="auto" height="200" src="https://res.cloudinary.com/hoapha1009/image/upload/v1613575942/skill_segyso.svg">
