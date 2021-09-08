@@ -25,7 +25,10 @@
 + Source: https://github.com/Thien521999/Shopping-Cart
 + Technologies:  ReactJS, Typescript, Redux Tool-kit, Context, Material UI, React-Hook-Form ...
 + Link: https://mini-shopping-cart.vercel.app/
-
+### Social Network:
++ Source: https://github.com/Thien521999/Project-NextJs
++ Technologies:  NextJS, Typescript, Redux Tool-kit, Context, Material UI, React-Hook-Form ...
++ Link: https://project-next-js.vercel.app/
 ### NhacCuatTui(Clone page Home): 
 + Source: https://github.com/hoangthientran/nhaccuatui.com
 + Technologies: ReactJs, Context, Ant Design, SCSS, ...
