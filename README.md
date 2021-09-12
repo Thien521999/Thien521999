@@ -16,7 +16,7 @@
 - Languages: Javascript, Typescript, HTML5, CSS3, SCSS. A little bit about PHP.
 - Framework & Platform: ReactJS, NextJS. A little bit about Bootstrap, Material UI, Ant Design, Atomic design.
 - Database: A little bit about SQL, MySQL.
-- Version Control: Git, Github, GitLab, trello
+- Version Control: Git, Github, GitLab, trello, redmine.
 - Foreign language: English (Reading & Writing)
 
 ## Projects
